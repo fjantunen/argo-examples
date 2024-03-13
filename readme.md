@@ -50,7 +50,8 @@ argocd app set <appname> #Set the application’s configuration.
 argocd app delete <appname> #Delete an Argo CD application.
 ```
 
-
+#
+Changed master to main
 
 
 
